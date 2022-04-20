@@ -1,5 +1,9 @@
 # PCAVS-Colab
 
+### Google Colab
+
+**PCAVS-Colab**: <a href="https://colab.research.google.com/github/justinjohn0306/PCAVS-Colab/blob/main/PCAVS_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 # Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation (CVPR 2021)
 
 [Hang Zhou](https://hangz-nju-cuhk.github.io/), Yasheng Sun, [Wayne Wu](https://wywu.github.io/), [Chen Change Loy](http://personal.ie.cuhk.edu.hk/~ccloy/), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), and [Ziwei Liu](https://liuziwei7.github.io/).
@@ -16,12 +20,6 @@ The key is to devise an implicit low-dimension pose code that is free of mouth s
 In this way, audio-visual representations are modularized into spaces of three key factors: speech content, head pose, and identity information.
 
 <img src='./assets/method.png' width=800>
-
-
-
-### Google Colab
-
-**PCAVS-Colab**: <a href="https://colab.research.google.com/github/justinjohn0306/PCAVS-Colab/blob/main/PCAVS_Colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 
